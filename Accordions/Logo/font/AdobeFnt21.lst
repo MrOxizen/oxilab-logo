@@ -1,0 +1,48 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cairo-Bold
+FamilyName:Cairo
+StyleName:Bold
+FullName:Cairo Bold
+MenuName:Cairo
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:F:\Github\oxilab-logo\Accordions\Logo\Font\Cairo-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:154184
+FileModTime:1636239333
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Cairo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cairo-Light
+FamilyName:Cairo
+StyleName:Light
+FullName:Cairo Light
+MenuName:Cairo Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Github\oxilab-logo\Accordions\Logo\Font\Cairo-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:143888
+FileModTime:1636239333
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Cairo Light
+NameArray:0,Win,16,Cairo
+%EndFont
+
